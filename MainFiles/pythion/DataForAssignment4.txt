@@ -1,0 +1,19 @@
+Title: Test Titration Data
+
+Date Collected: 11/18/2018
+
+Data:
+Blank:
+2.15
+3.14
+3.31
+1.59
+2.20
+
+Calibration:
+Concentration	Readings
+2.25		21.56	22.00	23.22
+4.50		45.12	46.00	44.99
+6.25		65.09	64.97	63.00
+8.50		87.23	88.45	85.99
+10.75		100.10	98.20	105.20
